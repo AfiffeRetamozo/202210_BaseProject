@@ -1,0 +1,12 @@
+.background-image {
+  height: 300px;
+  width: 100%;
+  background: url("../../assets/cafe.jpeg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+
+
+
